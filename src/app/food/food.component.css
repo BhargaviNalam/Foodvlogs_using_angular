@@ -1,0 +1,32 @@
+.card{
+    justify-content: center;
+    text-align: center;
+    margin: 15px 15px 15px 15px;
+    /* margin: 10px 15px; */
+    padding: 10px 10px;
+    border: none;
+    box-shadow: 0.5px 0.5px 5px #3f3737 ;
+    width: 400px;
+}
+img{
+    object-fit: contain;
+    max-width: 100%;
+}
+h5{
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ .card-desc button{
+    color: #ffffff;
+    background-color: rgb(66, 159, 66);
+ } 
+  .card-desc h5{
+    align-items: center;
+    line-height: 1.7;
+ } 
+ .container{
+    display: flex;
+    margin-left: 15px;
+ }
+ 

@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "src":"https://i.ytimg.com/vi/iNwTdd2uk9s/maxresdefault.jpg",
+        "alt":"Image",
+        "title":"Chicken fry piece Biryani",
+        "price":290,
+        "button":"order now"
+    },
+    {
+        "id":2,
+        "src":"https://www.easycookingwithmolly.com/wp-content/uploads/2020/04/egg-biryani-pressure-cooker-mughlai-480x360.jpg",
+        "alt":"Image",
+        "title":"Egg Biryani",
+        "price":270,
+        "button":"order now"
+    },
+    {
+        "id":3,
+        "src":"https://allaboutsikhs.com/wp-content/uploads/2021/02/authentic-chicken-biryani.jpg",
+        "alt":"image",
+        "title":"Punjab Biryani",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":4,
+        "src":"https://www.archanaskitchen.com//images/archanaskitchen/1-Author/Shaheen_Ali/CHETTINAD_STYLE_PRAWN_BIRYANI.jpg",
+        "alt":"Image",
+        "title":"Prawn's Biryani",
+        "price":290,
+        "button":"order now"
+    },
+    {
+        "id":5,
+        "src":"https://5.imimg.com/data5/LG/SS/GLADMIN-34826670/mughlai-chicken-biryani.png",
+        "alt":"Image",
+        "title":"Mughlai Chicken Biryani",
+        "price":310,
+        "button":"order now"
+    },
+    {
+        "id":6,
+        "src":"https://vismaifood.com/storage/app/uploads/public/980/eb9/ed6/thumb__700_0_0_0_auto.jpg",
+        "alt":"Image",
+        "title":"Mutton Dum Biryani",
+        "price":320,
+        "button":"order now"
+    },
+    {
+        "id":7,
+        "src":"https://thumbs.dreamstime.com/b/mutton-biryani-korma-curd-chutney-onion-salad-mutton-biryani-delicious-dish-made-lamb-meat-spices-herbs-yogurt-154775095.jpg",
+        "alt":"Image",
+        "title":"Mutton Fry Piece Biryani",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":8,
+        "src":"https://lh5.googleusercontent.com/proxy/S_4QNxAQUJdMn4M0Ke_zaX1nX4XGMQm9OjIB9Kfr7nXlRolTVhWoeyGA34bxeZ7qVDwSsyoarns6cO-5jzb4_C_qogXiQhf1_ISKaxD2rXSEKgxIhIF0WAg4ugBH",
+        "alt":"Image",
+        "title":"Mutton Keema Biryani",
+        "price":290,
+        "button":"order now"
+    },
+    {
+        "id":9,
+        "src":"https://madscookhouse.com/wp-content/uploads/2021/01/Subz-Vegetable-Biryani-1024x516.jpg",
+        "alt":"Image",
+        "title":"Mixed Biryani",
+        "price":330,
+        "button":"order now"
+    }
+]

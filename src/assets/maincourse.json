@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "src":"https://assets.cntraveller.in/photos/6613ae04b5dd2df591de1e02/master/w_1600%2Cc_limit/639704020",
+        "alt":"Image",
+        "title":"Hyderbad Chicken Biryani",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":2,
+        "src":"https://speakingaloud.in/wp-content/uploads/2023/08/Veg-Fried-Rice-500x375.jpg",
+        "alt":"Image",
+        "title":"Special Vegtable Biryani",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":3,
+        "src":"https://orikaflavours.com/cdn/shop/articles/lndscpe.jpg?v=1695577046",
+        "alt":"image",
+        "title":"Chicken Dum Biryani",
+        "price":280,
+        "button":"order now"
+    }
+]

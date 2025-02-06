@@ -1,0 +1,13 @@
+<div class="container">
+    <p style="font-size: 30px; font-weight: 500; font-family: 'Times New Roman', Times, serif;">Tasty Food FriedRice</p>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col" *ngFor="let d of details">
+            <div class="card">
+                <img [src]="d.src" [alt]="d.alt">
+                <h5>{{d.title | uppercase }}</h5>
+                <p>{{d.price | currency:'INR'}}</p>
+                <button class="btn btn-outline-success" routerLink="/Payment">{{d.button}}</button>
+            </div>
+        </div>
+    </div>
+</div>

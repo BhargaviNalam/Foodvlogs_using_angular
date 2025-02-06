@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvvTwgNamD4TDBp4EYolAnlxmRjbCJcf1JA&s",
+        "alt":"Image",
+        "title":"Chicken Tikka",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":2,
+        "src":"https://images.slurrp.com/prodarticles/m1b3moi3q9i.webp",
+        "alt":"Image",
+        "title":"Chicken Barra",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":3,
+        "src":"https://i.ytimg.com/vi/9WM7NdyXEYE/maxresdefault.jpg",
+        "alt":"Image",
+        "title":"Chicken Malai Tikka",
+        "price":200,
+        "button":"order now"
+    },
+    {
+        "id":4,
+        "src":"https://ranveerbrar.com/wp-content/uploads/2022/11/Chicken-changezi.jpg",
+        "alt":"Image",
+        "title":"Chicken changezi",
+        "price":290,
+        "button":"order now"
+    },
+    {
+        "id":5,
+        "src":"https://www.recipemasters.in/wp-content/uploads/2015/05/DSC_1075.jpg",
+        "alt":"Image",
+        "title":"Butter Tawa Chicken",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":6,
+        "src":"https://i.ytimg.com/vi/6tDmyUBYJqQ/hqdefault.jpg",
+        "alt":"Image",
+        "title":"Cream Tawa Chicken",
+        "price":350,
+        "button":"order now"
+    },
+    {
+        "id":7,
+        "src":"https://img.freepik.com/premium-photo/tray-food-including-kebab-onion-onion_926208-18469.jpg",
+        "alt":"Image",
+        "title":"Chicken Kalimiri Tikka",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":8,
+        "src":"https://s2.dmcdn.net/v/Vddc51bjFX9Izgr4R/x1080",
+        "alt":"Image",
+        "title":"Chicken Barra Cream",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":9,
+        "src":"https://i0.wp.com/spicechronicles.com/wp-content/uploads/2014/07/Chicken-Tikkasm.jpg?ssl=1",
+        "alt":"Image",
+        "title":"Chicken Tikka(boneless)",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":10,
+        "src":"https://static01.nyt.com/images/2024/05/16/multimedia/fs-tandoori-chicken-hmjq-copy-NL/fs-tandoori-chicken-hmjq-videoSixteenByNineJumbo1600.jpg",
+        "alt":"Image",
+        "title":"Chicken Tandoori",
+        "price":230,
+        "button":"order now"
+    },
+    {
+        "id":11,
+        "src":"https://www.sidechef.com/recipe/dcc713ba-d835-4698-a311-063f37e7fefc.jpg?d=1408x1120",
+        "alt":"Image",
+        "title":"Grilled Tandoori Chicken",
+        "price":320,
+        "button":"order now"
+    }
+    ,
+    {
+        "id":12,
+        "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn_EdKl2MnrXPyREkDW7dC7F0nBxVcz_H4Yy6bOv_o4hX6tZzZK6wTItCXuplhHTpV_vz_wTTpqWBcIXdpIolob42Lb3fKS29Vhq53q40jQqJNsg8qRqWHRLAzOGjQGP66nOYn3d473bQ/s16000-rw/tandoori-chicken-kebabs.jpg",
+        "alt":"Image",
+        "title":" Tandoori Chicken Kabobs",
+        "price":330,
+        "button":"order now"
+    }
+]

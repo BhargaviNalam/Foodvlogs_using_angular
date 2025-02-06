@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "src":"https://thumbs.dreamstime.com/b/poznan-poland-apr-bottles-global-soft-drink-brands-including-products-coca-cola-company-pepsico-bottles-global-soft-114614636.jpg",
+        "alt":"Image",
+        "title":"SoftDrinks",
+        "price":100,
+        "button":"order now"
+    },
+    {
+        "id":2,
+        "src":"https://static.wixstatic.com/media/500a87_20e41e8dd45d46279d7619ef8cea003f~mv2.jpeg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/500a87_20e41e8dd45d46279d7619ef8cea003f~mv2.jpeg",
+        "alt":"Image",
+        "title":"Mineral water",
+        "price":50,
+        "button":"order now"
+    },
+    {
+        "id":3,
+        "src":"https://soufflebombay.com/wp-content/uploads/2017/06/Homemade-Lime-Soda.jpg",
+        "alt":"image",
+        "title":"Lime Soda",
+        "price":70,
+        "button":"order now"
+    },
+    {
+        "id":4,
+        "src":"https://www.cookwithmanali.com/wp-content/uploads/2021/06/Lassi-Recipe-500x500.jpg",
+        "alt":"Image",
+        "title":"Lassi (Salt & Sweet)",
+        "price":90,
+        "button":"order now"
+    },
+    {
+        "id":5,
+        "src":"https://img.freepik.com/premium-photo/fruit-juice-glass-fruits-isolated-white_636537-147044.jpg",
+        "alt":"Image",
+        "title":"Fruit Juice",
+        "price":80,
+        "button":"order now"
+    }
+]

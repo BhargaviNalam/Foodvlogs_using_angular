@@ -1,0 +1,16 @@
+<app-navbar></app-navbar>
+<div class="container">
+    <p style="font-size: 30px; font-weight: 500; font-family: 'Times New Roman', Times, serif;">Tasty Food Ice-Cream's</p>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col" *ngFor="let d of details">
+            <div class="card">
+                <img [src]="d.src" [alt]="d.alt">
+                <h5>{{d.title | uppercase }}</h5>
+                <p>{{d.price | currency:'INR'}}</p>
+                <button class="btn btn-outline-success" routerLink="/Payment">{{d.button}}</button>
+            </div>
+        </div>
+    </div>
+</div>
+<app-dessertsdrinks></app-dessertsdrinks>
+<app-footer></app-footer>

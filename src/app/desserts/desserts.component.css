@@ -1,0 +1,25 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+.card{
+    margin: 10px -10px;
+}
+.card img{
+ padding: 10px 10px;
+ height: 300px;
+}
+.card h5{
+    margin: 10px 10px;
+    text-align: center;
+
+}
+.card p{
+    margin: 10px 10px;
+    text-align: center;
+}
+.container p{
+    border: 5px black;
+    padding: 10px 10px;
+}

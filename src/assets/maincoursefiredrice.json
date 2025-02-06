@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "src":"https://slurrp.club/wp-content/uploads/2022/04/DSC_0286-2-2-750x481.jpg",
+        "alt":"Image",
+        "title":"Veg Fried Rice",
+        "price":260,
+        "button":"order now"
+    },
+    {
+        "id":2,
+        "src":"https://images.getrecipekit.com/20220904015448-veg-20fried-20rice.png?aspect_ratio=16:9&quality=90&",
+        "alt":"Image",
+        "title":"Special Veg Fried Rice",
+        "price":290,
+        "button":"order now"
+    },
+    {
+        "id":3,
+        "src":"https://i.ytimg.com/vi/8kFT7b5qTK0/maxresdefault.jpg",
+        "alt":"image",
+        "title":"Egg Fried Rice",
+        "price":270,
+        "button":"order now"
+    },
+    {
+        "id":4,
+        "src":"https://www.pavaniskitchen.com/wp-content/uploads/2021/08/schezwan-veg-fried-rice.jpg",
+        "alt":"Image",
+        "title":"schezwan fried rice",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":5,
+        "src":"https://recipe30.com/wp-content/uploads/2020/05/chicken-fried-rice.jpg",
+        "alt":"Image",
+        "title":"Chicken Fried Rice",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":6,
+        "src":"https://b.zmtcdn.com/data/dish_photos/e38/05b6518a5d307fcdbc61474c36c1be38.jpg",
+        "alt":"Image",
+        "title":"Fry Piece Fried Rice",
+        "price":320,
+        "button":"order now"
+    },
+    {
+        "id":7,
+        "src":"https://i.ytimg.com/vi/iIvz3PtV6_8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBe76In2quyAsoW_jaX8gyXHw1Dow",
+        "alt":"Image",
+        "title":"Mixed Fried Rice",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":8,
+        "src":"https://i.ytimg.com/vi/6XSN_Hc6gk8/maxresdefault.jpg",
+        "alt":"Image",
+        "title":"Mutton Fried Rice",
+        "price":310,
+        "button":"order now"
+    }
+    
+]

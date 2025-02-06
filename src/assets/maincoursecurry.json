@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "src":"https://chefajaychopra.com/assets/img/recipe/1-1680272770Kajumasalacurrywebp.webp",
+        "alt":"Image",
+        "title":"Kaju Masala",
+        "price":325,
+        "button":"order now"
+    },
+    {
+        "id":2,
+        "src":"https://i.ytimg.com/vi/CBUIRWETfTg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDdWBRkgFpLDNFGHUkguKjZ6ar1w",
+        "alt":"Image",
+        "title":"Kaju Mushroom",
+        "price":320,
+        "button":"order now"
+    },
+    {
+        "id":3,
+        "src":"https://i.ytimg.com/vi/1JHPlYa3QN4/maxresdefault.jpg",
+        "alt":"image",
+        "title":"Tomato Kaju Curry",
+        "price":300,
+        "button":"order now"
+    },
+    {
+        "id":4,
+        "src":"https://www.indianhealthyrecipes.com/wp-content/uploads/2024/04/mushroom-masala-curry-recipe.jpg",
+        "alt":"Image",
+        "title":"Mushroom Curry",
+        "price":275,
+        "button":"order now"
+    },
+    {
+        "id":5,
+        "src":"https://s3.envato.com/files/403833052/DSC_1889.jpg",
+        "alt":"Image",
+        "title":"Plain Palak",
+        "price":250,
+        "button":"order now"
+    },
+    {
+        "id":6,
+        "src":"https://i.ytimg.com/vi/qu_VRYQccOg/maxresdefault.jpg",
+        "alt":"Image",
+        "title":"Chili Paneer Wet",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":7,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pPEGc3N0Wi-uJucjnte2EhgDxBZyq4yBlg&s",
+        "alt":"Image",
+        "title":"Chicken Curry Bones",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":8,
+        "src":"https://i.ytimg.com/vi/tM-C9z8wKwk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDK5RbnJVRRPO-Oyiy9atFOqoW3eg",
+        "alt":"Image",
+        "title":"Kaju Paneer",
+        "price":280,
+        "button":"order now"
+    },
+    {
+        "id":9,
+        "src":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQfysu3jzv-y7psPTFkWdSQpZPFyr0qjd3jw&s",
+        "alt":"Image",
+        "title":"Butter Chicken",
+        "price":300,
+        "button":"order now"
+    }
+]
